@@ -1,0 +1,6 @@
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\bin\Debug\SystemManagement.pdb
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.AssemblyReference.cache
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.CoreCompileInputs.cache
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\obj\Debug\SystemManagement.exe
+E:\SPKT\CauTrucDuLieu&GiaiThuat\Projects\DoAnCuoiMon\SystemManagement\SystemManagement\obj\Debug\SystemManagement.pdb
